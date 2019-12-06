@@ -10,11 +10,12 @@ import java.rmi.registry.LocateRegistry;
 
 public class Main {
     public static void main(String[] args) {
+        String ip="//localhost/Chat";
         try {
             LocateRegistry.createRegistry(1099);
-            System.setProperty("java.rmi.server.hostname","192.168.1.103");
+            System.setProperty("java.rmi.server.hostname","192.168.1.110");
             ChatSender chatSender = new ChatSender();
-            Naming.rebind("usc",chatSender);
+            Naming.rebind("Chat",chatSender);
             System.out.println("server is ...");
         } catch (RemoteException | MalformedURLException e) {
             e.printStackTrace();

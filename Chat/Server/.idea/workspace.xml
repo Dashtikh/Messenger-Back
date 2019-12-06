@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="383bbace-c0b0-48a5-b412-2aa34ce46707" name="Default Changelist" comment="" />
+    <list default="true" id="383bbace-c0b0-48a5-b412-2aa34ce46707" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client2/out/production/Client2/MyRemote/ChatInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client2/out/production/Client2/MyRemote/ChatInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client2/out/production/Client2/MyRemote/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client2/out/production/Client2/MyRemote/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client2/out/production/Client2/MyRemote/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client2/out/production/Client2/MyRemote/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client2/src/MyRemote/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client2/src/MyRemote/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client3/out/production/Client2/MyRemote/ChatInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client3/out/production/Client2/MyRemote/ChatInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client3/out/production/Client2/MyRemote/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client3/out/production/Client2/MyRemote/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client3/out/production/Client2/MyRemote/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client3/out/production/Client2/MyRemote/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client3/src/MyRemote/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client3/src/MyRemote/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/MyRemote/ChatInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Server/MyRemote/ChatInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/MyRemote/ChatSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Server/MyRemote/ChatSender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/MyRemote/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Server/MyRemote/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Server/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +39,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1UHevP0lE2NQNYH6Nyx3gTxBpA6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Client2" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -109,10 +137,26 @@
       <workItem from="1575100899034" duration="2654000" />
       <workItem from="1575105979184" duration="8000" />
       <workItem from="1575456840002" duration="21000" />
+      <workItem from="1575624013610" duration="348000" />
+      <workItem from="1575630167610" duration="3320000" />
+      <workItem from="1575641711985" duration="1668000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
